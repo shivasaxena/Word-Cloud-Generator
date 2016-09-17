@@ -5,4 +5,4 @@ Here is the code for the article *How to Get Started with Developing MS Office A
 The source code is made avaible under Apache 2.0 license
 
 
-[1]: http://opensourceforu.com/
+[1]: http://opensourceforu.com/2016/05/get-started-with-developing-ms-office-add-ins/
